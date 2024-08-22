@@ -1,0 +1,30 @@
+FileName,SPDXID,LicenseConcluded,LicenseComment,LicenseInfoInFile,FileCopyrightText
+PackageName: Test 23.zip - PackageFileName: Test 23.zip
+Test 23.zip/LGPL-2.1_or_MPL-1.0.txt,SPDXRef-item57,"(MPL-1.0 OR LGPL-2.1-only)",,"  
+    MPL-1.0 AND     
+    LGPL-2.1-only  ",NOASSERTION
+Test 23.zip/Test17,SPDXRef-item59,"(BSD-2-Clause OR MIT)",,"  
+    BSD-2-Clause AND     
+    MIT AND     
+    LicenseRef-fossology-BSD AND     
+  ",NOASSERTION
+Test 23.zip/Test18,SPDXRef-item55,"(MIT AND (GPL-2.0-only OR BSD-2-Clause))",,"  
+    BSD-2-Clause AND     
+    MIT AND     
+    GPL-2.0-only AND     
+    LicenseRef-fossology-BSD AND     
+  ",NOASSERTION
+Test 23.zip/Test16.txt,SPDXRef-item54,"LicenseRef-newlc",,NOASSERTION,NOASSERTION
+Test 23.zip/GPL-2.0_or_BSD-2-Clause.txt,SPDXRef-item56,"(Linux-OpenIB AND GPL-2.0-only)",,"  
+    GPL-2.0-only AND     
+    Linux-OpenIB  ",NOASSERTION
+Test 23.zip/Test7,SPDXRef-item58,"(MIT AND (Abstyles OR AFL-1.1))",,"  
+    AFL-1.1 AND     
+    MIT AND     
+    GPL-2.0-only AND     
+    BSD-3-Clause AND     
+    LicenseRef-fossology-BSD AND     
+  ",NOASSERTION
+
+
+

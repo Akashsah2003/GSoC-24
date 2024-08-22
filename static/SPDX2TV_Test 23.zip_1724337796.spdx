@@ -1,0 +1,190 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://akash-HP-Pavilion-Laptop-15-eg2xxx/repo/SPDX2TV_Test 23.zip_1724337796.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-
+Creator: Person: fossy (y)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2024-08-22T14:43:16Z
+LicenseListVersion: 3.22
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: Test 23.zip
+PackageFileName: Test 23.zip
+SPDXID: SPDXRef-upload9
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: a4954e3cbfb93783299532eba572a9dd430e9719
+PackageChecksum: SHA1: 5a6f8cfce7bac505063b0435dbddf192c13a6bb2
+PackageChecksum: SHA256: 90c53eae2af6f8f860f554f3546889886137d3e8877919b0af8a3b8c76b5b312
+PackageChecksum: MD5: b46f943559927e6bdac484ba51314f91
+PackageLicenseConcluded: (MIT AND (GPL-2.0-only OR BSD-2-Clause))
+PackageLicenseDeclared: (MIT AND (GPL-2.0-only OR BSD-2-Clause))
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("".1d7aac)
+ - monk ("".1d7aac)
+ - ojo ("".1d7aac) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload9
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: Test 23.zip/LGPL-2.1_or_MPL-1.0.txt
+SPDXID: SPDXRef-item57
+FileChecksum: SHA1: 34ebbb619241aa74d962267b5e328cb1148b265c
+FileChecksum: SHA256: bda524f051ce1649af47fb6cf2bc47a90a9937e40377c048ddd7beb6bba129df
+FileChecksum: MD5: 1d008cc87e2835bd232cda971135c0c0
+LicenseConcluded: (MPL-1.0 OR LGPL-2.1-only)
+
+LicenseInfoInFile: MPL-1.0
+
+LicenseInfoInFile: LGPL-2.1-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Test 23.zip/Test17
+SPDXID: SPDXRef-item59
+FileChecksum: SHA1: c281d099fc10e31965a824f517e391a8e427bb7d
+FileChecksum: SHA256: c1f3f53e3fa92008121471181f28793f6ba9f5a44cf0ed6e5b0440d6d3ca4d4e
+FileChecksum: MD5: ce954c3f29246cba636cc1961886317d
+LicenseConcluded: (BSD-2-Clause OR MIT)
+
+LicenseInfoInFile: BSD-2-Clause
+
+LicenseInfoInFile: MIT
+
+LicenseInfoInFile: LicenseRef-fossology-BSD
+
+
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Test 23.zip/Test18
+SPDXID: SPDXRef-item55
+FileChecksum: SHA1: 180aa02ae54254f8b122d1675a0854515372b1cb
+FileChecksum: SHA256: dfc7a1880190025121db47d8f468d51a5490d46041e72799f535c544709a27ee
+FileChecksum: MD5: 07608519d92f2fa6a053b1c67956eb09
+LicenseConcluded: (MIT AND (GPL-2.0-only OR BSD-2-Clause))
+
+LicenseInfoInFile: BSD-2-Clause
+
+LicenseInfoInFile: MIT
+
+LicenseInfoInFile: GPL-2.0-only
+
+LicenseInfoInFile: LicenseRef-fossology-BSD
+
+
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Test 23.zip/Test16.txt
+SPDXID: SPDXRef-item54
+FileChecksum: SHA1: b0a628c1ac47ee2de6a03dafd18927eee240901b
+FileChecksum: SHA256: 381ba9e8b7ef548bbb36e70f5a7615445f95fcd98c07bc906357a6a939f5c48f
+FileChecksum: MD5: a04ef8df8807f9bf3d01d507cf87dd7c
+LicenseConcluded: LicenseRef-newlc
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Test 23.zip/GPL-2.0_or_BSD-2-Clause.txt
+SPDXID: SPDXRef-item56
+FileChecksum: SHA1: 0e22365cf6a691b4435136e79d390486802f256d
+FileChecksum: SHA256: 3491fce44eea0ef665edbe8718f7877cb82be96f220dc75e092e6bc74973100d
+FileChecksum: MD5: dd4e79b3bf167e9743fb3e31020d37e6
+LicenseConcluded: (Linux-OpenIB AND GPL-2.0-only)
+
+LicenseInfoInFile: GPL-2.0-only
+
+LicenseInfoInFile: Linux-OpenIB
+FileCopyrightText: NOASSERTION
+FileAttributionText: <text> Ammasio Inc </text>
+
+##File
+
+FileName: Test 23.zip/Test7
+SPDXID: SPDXRef-item58
+FileChecksum: SHA1: 42a84366da049b32a08b7ea2b777a80ead5082ef
+FileChecksum: SHA256: 939725c5a5ef56d792a724915a9937be89c65387fb0b714ed63a30c85e980cf0
+FileChecksum: MD5: 296c30f5a2c917761ce6aac04c0c059e
+LicenseConcluded: (MIT AND (Abstyles OR AFL-1.1))
+
+LicenseInfoInFile: AFL-1.1
+
+LicenseInfoInFile: MIT
+
+LicenseInfoInFile: GPL-2.0-only
+
+LicenseInfoInFile: BSD-3-Clause
+
+LicenseInfoInFile: LicenseRef-fossology-BSD
+
+
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+
+
+
+
+
+
+
+LicenseID: LicenseRef-fossology-BSD
+LicenseName: BSD
+ExtractedText: <text> BSD is referenced without a version number. Please look up BSD in the License Admin to view the different versions. </text>
+
+
+
+
+  
+LicenseID: LicenseRef-newlc
+LicenseName: LicenseRef-newlc
+ExtractedText: <text> License by OJO. </text>
+
+
+
+
+
+
+
+
+
+
+
+
+
