@@ -34,10 +34,8 @@ One of the primary objectives was to enhance the detection of SPDX license expre
 - **Parsing License Expressions**: Developed algorithms to parse these expressions as Abstract Syntax Trees (AST).
 - **Database Integration**: Created the `license_expression` table to store these parsed expressions as AST. The schema for the `license_expression` table is outlined below.
 - **Removed Dual-license Results**: Removed `Dual-license` results from Nomo and Ojo.
-<video width="640" height="360" controls>
-  <source src="./static/uploadandscan.mp4" type="video/mp4">
-  Scan Expressions with Ojo
-</video>
+
+[![Watch the video](https://img.youtube.com/vi/BVXIp87Q85E/maxresdefault.jpg)](https://www.youtube.com/watch?v=BVXIp87Q85E)
 
 <h2>2. View and Edit License Expressions</h2>
 
@@ -45,10 +43,7 @@ This task focused on creating user-friendly UI components that allow users to vi
 
 - **UI Development**: Designed and implemented intuitive UI components for the file clearing page.
 - **User Interaction**: Enabled users to interact with license expressions, making it easier to understand and manage the expressions.
-<video width="640" height="360" controls>
-  <source src="./static/editExpression.mp4" type="video/mp4">
-  Edit Expression
-</video>
+[![Watch the video](https://img.youtube.com/vi/0XqAuO4tbIM/maxresdefault.jpg)](https://youtu.be/0XqAuO4tbIM)
 
 <h2>3. Clear License Expressions</h2>
 
@@ -58,10 +53,7 @@ This task involved enhancing the functionality of the FOSSology system to allow 
 - **Editing Capabilities**: Provided editing options for users to modify and refine license expressions.
 - **Clearing History**: Users can view the edited expressions history in clearing history.
 - **Custom License Expression**: Users can also add license expressions for uploads where scanners did not detect any license expressions.
-<video width="640" height="360" controls>
-  <source src="./static/fileClearing.mp4" type="video/mp4">
-  File Clearing
-</video>
+[![Watch the video](https://img.youtube.com/vi/ebv_0cSstbw/maxresdefault.jpg)](https://youtu.be/ebv_0cSstbw)
 
 <h2>4. Reporting </h2>
 
@@ -82,10 +74,7 @@ This task focused on extending the capabilities of FOSSology to better handle th
 
 - **Data Export**: Enhanced the FOSSology Dump functionality to include license expression results, ensuring that all relevant license data is captured during export operations.
 - **Data Import**: Improved the import process to support license expression data from FOSSology exports, enabling seamless transfer of decisions between different instances of FOSSology.
-<video width="640" height="360" controls>
-  <source src="./static/exportImportDecisions.mp4" type="video/mp4">
-  Export Import Decisions
-</video>
+[![Watch the video](https://img.youtube.com/vi/pjptTjGIGMI/maxresdefault.jpg)](https://youtu.be/pjptTjGIGMI)
 
 <h2> 6. Modified Related REST APIs </h2>
 
